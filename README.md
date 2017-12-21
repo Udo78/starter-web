@@ -9,7 +9,7 @@ This is example is to show various different parts of the Git repository and var
 
 ## Purpose
 
-As statet above, the main purpose is to provide simple examples for Git training demos.
+As statet above, the main purpose of this project is to provide simple examples for Git training demos.
 
 ## Deployment
 
